@@ -1,7 +1,7 @@
 from distutils.core import setup
 from setuptools import find_packages
 setup(
-    name = "dseo-jobparsing",
+    name = "dseo-jobparse",
     version = "1.0",
     description = "Job data feedfile parsing app.",
     author = "DirectEmployers Foundation",
@@ -26,5 +26,5 @@ setup(
         'Programming Language :: Python',
         'Topic :: Internet :: WWW/HTTP :: Indexing/Search'
     ],
-    url = 'http://github.com/DirectEmployers/dseo-jobparsing'
+    url = 'http://github.com/DirectEmployers/dseo-jobparse'
 )
